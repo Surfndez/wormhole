@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.2.1
+
+### Added
+
+Expose overrides parameter for signer \*Eth functions
+
+Karura support
+
+Acala support
+
 ## 0.2.0
 
 ### Changed
