@@ -9,7 +9,7 @@ edition = "2018"
 default = ["pyth2wormhole/client", "wormhole-bridge-solana/client"]
 
 [dependencies]
-borsh = "=0.9.1"
+borsh = "=1.6.1"
 clap = "3.0.0-beta.2" # This beta assimilates structopt into clap
 env_logger = "0.8.4"
 log = "0.4.14"
