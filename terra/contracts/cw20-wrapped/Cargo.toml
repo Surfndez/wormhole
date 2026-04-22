@@ -25,4 +25,4 @@ cw-storage-plus  = { version = "0.8.0" }
 thiserror = { version = "1.0.20" }
 
 [dev-dependencies]
-cosmwasm-vm = { version = "0.16.0", default-features = false }
+cosmwasm-vm = { version = "3.0.4", default-features = false }
