@@ -21,7 +21,7 @@ solitaire = { path = "../../solitaire/program" }
 solitaire-client = { path = "../../solitaire/client", optional = true }
 rocksalt = { path = "../../solitaire/rocksalt" }
 solana-program = "=1.9.4"
-borsh = "=0.9.1"
+borsh = "=1.6.1"
 pyth-client = "0.2.2"
 # Crates needed for easier wasm data passing
 wasm-bindgen = { version = "0.2.74", features = ["serde-serialize"], optional = true}
