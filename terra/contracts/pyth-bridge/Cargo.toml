@@ -35,5 +35,5 @@ pyth-client = "0.2.2"
 solana-program = "=1.7.0"
 
 [dev-dependencies]
-cosmwasm-vm = { version = "0.16.0", default-features = false }
+cosmwasm-vm = { version = "3.0.4", default-features = false }
 serde_json = "1.0"
